@@ -7,6 +7,7 @@ Este proyecto es una aplicación para ver información sobre un cine utilizando 
 ![Imagen del Diagrama](DiagramaBBDD.png)
 
 - Restricciones y errores que controla la base da datos
+Los errores que controla son entre otros que al crear y actualizar un personaje el CodAct exista en la BBDD, también comprueba que exista la película y personaje al hacer una participación
 
 ## Diagrama Referencial de la BBDD
 ![Imagen del Diagrama2](DiagramaReferencial.png)
