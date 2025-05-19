@@ -1,7 +1,7 @@
 # Proyecto Interfaz de Cine
 ![Imagen de Portada](PortadaBBDD.png)
 
-Este proyecto es una aplicación para ver información sobre un cine utilizando Java y una base de datos. La base de datos esta estructurada en tres tablas: **Actor**, **Personaje** y **Pelicula**. La aplicación permite crear, actualizar, borrar y visualizar el registro de actores, personajes y peliculas
+Este proyecto es una aplicación para ver información sobre un cine utilizando Java y una base de datos. La base de datos esta estructurada en tres tablas: **Actor**, **Personaje** y **Pelicula**. La aplicación permite crear, actualizar, borrar y visualizar el registro de actores, personajes y peliculas. Además puedes importar el csv de la tabla personajes.
 
 ## Diagrama Entidad-Relacion de la BBDD
 ![Imagen del Diagrama](DiagramaBBDD.png)
@@ -25,4 +25,4 @@ El programa de Java habilita la ejecución de múltiples operaciones en tablas d
 - **Buscar por ID**: Esta función permite buscar entradas particulares por su ID de identificador única dentro de cada tabla
   
 ## Resumen
-El programa permite la gestión de una base de datos sobre un cine de manera eficiente, pudiendo realizar varias acciones para manipular los datos
+El programa permite la gestión de una base de datos sobre un cine de manera eficiente, pudiendo realizar varias acciones para manipular los datos.
